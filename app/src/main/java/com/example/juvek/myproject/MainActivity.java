@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                         startScan();
 
 
-0                    }
+                    }
                     /*else{
                         Log.i("v1",""+enabled);
                         stopScan();
