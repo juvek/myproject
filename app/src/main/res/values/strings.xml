@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">myproject</string>
     <string name="title_activity_maps">Map</string>
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="regnoerror">Enter a valid reg no</string>
+    <string name="passerror">Enter a valid password</string>
+    <string-array name="sp">
+        <item>HOME</item>
+        <item>OFFICE</item>
+        <item>OTHERS</item>
+    </string-array>
+
 </resources>

@@ -3,4 +3,35 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="myPrimaryColor">#2196f3</color>
+    <color name="myPrimaryDarkColor">#1976d2</color>
+    <color name="AccentColor">#03a9f4</color>
+
+    <color name="whitedisabled">#EBEBEB</color>
+
+    <color name="myDrawerBackground">#FFF</color>
+    <color name="myWindowBackground">#f6f7f6</color>
+    <color name="myTextPrimaryColor">#212121</color>
+    <color name="myNavigationColor">#000</color>
+    <color name="window_background">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <drawable name="pressed_gray">#0c000000</drawable>
+    <color name="tabsScrollColor">#FFFFFE</color>
+    <drawable name="selected_gray">#2c000000</drawable>
+
+
+    <color name="black_semi_transparent">#99000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="whiter">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="limegreen">#C1D208</color>
+    <color name="limegreen_pressed">#C1D271</color>
+    <color name="lemon">#FFD800</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
 </resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_contact"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+ >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:layout_margin="10dp"
+        android:id="@+id/name"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone number"
+        android:inputType="phone"
+
+        android:layout_margin="10dp"
+        android:id="@+id/phoneno"/>
+    <Button
+        android:layout_width="match_parent"
+        android:text="Update Contact"
+        android:textColor="#ffffff"
+        android:background="@drawable/roundbtn"
+        android:layout_margin="10dp"
+        android:id="@+id/save"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="match_parent"
+        android:text="Delete Contact"
+        android:layout_margin="10dp"
+        android:id="@+id/delete"
+        android:textColor="#ffffff"
+        android:background="@drawable/roundbtn"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

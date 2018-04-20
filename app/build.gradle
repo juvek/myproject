@@ -28,4 +28,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     implementation project(':ufobeaconsdk-release')
     implementation 'com.android.support:appcompat-v7:27.0.2'
+    compile 'com.basgeekball:awesome-validation:1.3'
+
 }
